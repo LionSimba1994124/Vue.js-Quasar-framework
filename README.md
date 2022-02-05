@@ -1,6 +1,4 @@
-# Quasar App (base)
-
-Testing - William Verde
+# Vue.js and Quasar framework
 
 ## Install the dependencies
 ```bash
